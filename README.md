@@ -4,9 +4,9 @@
 
 # PREREQUISITES:  poppler-windows
 
-Download the latest release of poppler using the link below:
+- Download the latest release of poppler using the link below:
 
-https://github.com/oschwartz10612/poppler-windows/releases
+- https://github.com/oschwartz10612/poppler-windows/releases
 
 Extract the release.zip and paste it inside:
 
