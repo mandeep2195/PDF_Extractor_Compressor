@@ -1,7 +1,8 @@
 # PDF_Extractor_Compressor
- This Tool can be used for Extracting the Images from a pdf and Compress them into desired size.
+ 
+ # This Tool can be used for Extracting the Images from a pdf and Compress them into desired size.
 
-PREREQUISITES:  poppler-windows
+# PREREQUISITES:  poppler-windows
 
 Download the latest release of poppler using the link below:
 
@@ -35,7 +36,7 @@ Now Restart the Computer.
 
 
 
-Steps to Use PDF_Extractor_Compressor
+# Steps to Use PDF_Extractor_Compressor
 
 Download The Repository.
 
@@ -58,4 +59,4 @@ Enter the desired compression size in KB.
 
 Now a folder with the name of the PDF File will appear inside the output folder selected by the user which will contain Original Images (without Compression) and the Compressed folder in which the compressed Images are present.
 
-NOTE: To avoid permission denied error run the PDF_Extractor_Compressor.exe as administrator.
+# NOTE: To avoid permission denied error run the PDF_Extractor_Compressor.exe as administrator.
